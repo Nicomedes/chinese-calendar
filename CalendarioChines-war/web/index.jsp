@@ -14,8 +14,8 @@
     <body>       
         <form action="VerificaDataServlet" method="post">
             Nome:<input type="text" name="nome"/></br>
-            Data de Nascimento: <input type="text" name="dataNascimento"/></br>
-            <input type="submit" value="OK">
+            Ano de Nascimento: <input type="text" name="anoNascimento"/></br>
+            <input type="submit" value="Gravar">
         </form>
     
     </body>
